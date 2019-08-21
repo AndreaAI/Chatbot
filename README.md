@@ -11,3 +11,9 @@ All the intermediary back-end code was implemented in Python to:
 3. Create a front-end API with Flask for the interaction between the user and the chatbot.
 
 Information on how to build a chatbot with Flask and Dialogflow: https://pusher.com/tutorials/chatbot-flask-dialogflow.
+
+### Chatbot interface example
+
+<p align="center">
+  <img src="/templates/chatbot.PNG" width="500" height="600">
+</p>
