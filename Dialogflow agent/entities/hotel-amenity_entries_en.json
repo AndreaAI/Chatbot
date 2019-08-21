@@ -1,0 +1,36 @@
+[
+  {
+    "value": "WiFi",
+    "synonyms": [
+      "WiFi",
+      "wifi",
+      "Wifi"
+    ]
+  },
+  {
+    "value": "restaurant",
+    "synonyms": [
+      "restaurant"
+    ]
+  },
+  {
+    "value": "pool",
+    "synonyms": [
+      "pool",
+      "swimming pool"
+    ]
+  },
+  {
+    "value": "breakfast",
+    "synonyms": [
+      "breakfast"
+    ]
+  },
+  {
+    "value": "gym",
+    "synonyms": [
+      "gym",
+      "fitness"
+    ]
+  }
+]
