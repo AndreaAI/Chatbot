@@ -1,0 +1,32 @@
+[
+  {
+    "value": "near @sys.any:place",
+    "synonyms": [
+      "near @sys.any:place"
+    ]
+  },
+  {
+    "value": "close to @sys.any:place",
+    "synonyms": [
+      "close to @sys.any:place"
+    ]
+  },
+  {
+    "value": "next to @sys.any:place",
+    "synonyms": [
+      "next to @sys.any:place"
+    ]
+  },
+  {
+    "value": "near @sys.any:place and @sys.any:place",
+    "synonyms": [
+      "near @sys.any:place and @sys.any:place"
+    ]
+  },
+  {
+    "value": "next to @sys.any:place and @sys.any:place",
+    "synonyms": [
+      "next to @sys.any:place and @sys.any:place"
+    ]
+  }
+]
