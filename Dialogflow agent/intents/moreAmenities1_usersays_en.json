@@ -1,0 +1,52 @@
+[
+  {
+    "id": "8a4d0bbc-4b32-4a75-af49-9a20e6c2754b",
+    "data": [
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541068597
+  },
+  {
+    "id": "f09090cd-dc06-4209-b784-2f37c0ffcdc7",
+    "data": [
+      {
+        "text": "also with ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541068597
+  },
+  {
+    "id": "e87c89b9-a7aa-4a28-a36b-b771fcff5108",
+    "data": [
+      {
+        "text": "with ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541068597
+  }
+]

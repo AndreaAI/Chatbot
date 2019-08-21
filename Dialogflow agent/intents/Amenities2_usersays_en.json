@@ -1,0 +1,40 @@
+[
+  {
+    "id": "178eeaa6-0fce-43c2-9089-bb6bc54bd06d",
+    "data": [
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541506767
+  },
+  {
+    "id": "28d42a83-34bc-4477-9ceb-bcd38ab5f2c7",
+    "data": [
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541503342
+  }
+]

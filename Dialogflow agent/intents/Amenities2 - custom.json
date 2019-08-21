@@ -1,0 +1,71 @@
+{
+  "id": "f15ac5af-8f05-4a31-9866-8577286bd088",
+  "parentId": "2b3d33b6-57d5-4ab0-a81c-ac189fbdf89b",
+  "rootParentId": "2b3d33b6-57d5-4ab0-a81c-ac189fbdf89b",
+  "name": "Amenities2 - custom",
+  "auto": true,
+  "contexts": [
+    "Amenities2-followup",
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Amenities2.Amenities2-custom",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0746e867-bca8-4426-a8c9-5a4939174dde",
+          "required": false,
+          "dataType": "@amenities",
+          "name": "amenities",
+          "value": "#Amenities2-followup.hotel-amenity,$hotel-amenity1",
+          "prompts": [],
+          "defaultValue": "#location.amenities",
+          "isList": false
+        },
+        {
+          "id": "bbe17d1c-85bf-4097-ae01-f34a785c34c2",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "$hotel-amenity1",
+          "prompts": [],
+          "defaultValue": "#Amenities2-followup.hotel-amenity1",
+          "isList": false
+        },
+        {
+          "id": "fb83d702-ec0c-4236-a6fa-f37a49689f54",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "$hotel-amenity",
+          "prompts": [],
+          "defaultValue": "#Amenities2-followup.hotel-amenity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541507306,
+  "fallbackIntent": false,
+  "events": []
+}

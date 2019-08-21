@@ -1,0 +1,107 @@
+{
+  "id": "4ea60422-af9b-4fd4-891e-ebf38f867943",
+  "parentId": "b3e233ab-92cc-4ab5-b800-1c86848ec5f3",
+  "rootParentId": "b3e233ab-92cc-4ab5-b800-1c86848ec5f3",
+  "name": "NotEnd",
+  "auto": true,
+  "contexts": [
+    "End-followup",
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "end.notend",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6ce65cc8-7f20-4044-b5ac-fa2bd0ef208e",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where do you want to travel?"
+            }
+          ],
+          "defaultValue": "#location.geo-city",
+          "isList": false
+        },
+        {
+          "id": "92a4feb5-c166-4660-9e94-c32b3ec75d80",
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "$hotel-amenity",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity"
+        },
+        {
+          "id": "6d9563d2-3f1d-4b9a-a0eb-567045fa90fc",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "$hotel-amenity1",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity1",
+          "isList": false
+        },
+        {
+          "id": "d085f837-1866-4bab-bc69-c92f8a1465ec",
+          "required": false,
+          "dataType": "@rating",
+          "name": "rating",
+          "value": "$rating",
+          "prompts": [],
+          "defaultValue": "#location.rating",
+          "isList": false
+        },
+        {
+          "id": "654519a6-7766-4343-982b-b98d6819d818",
+          "required": false,
+          "dataType": "@pricerange",
+          "name": "pricerange",
+          "value": "$pricerange",
+          "prompts": [],
+          "defaultValue": "#location.pricerange",
+          "isList": false
+        },
+        {
+          "id": "1f5f0140-d065-4770-a092-31ab4c003171",
+          "required": false,
+          "dataType": "@nearBy",
+          "name": "nearBy",
+          "value": "$nearBy",
+          "prompts": [],
+          "defaultValue": "#location.nearBy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Well, I can change that. Anything else?",
+            "Ok, no problem. Anything else?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541673464,
+  "fallbackIntent": false,
+  "events": []
+}

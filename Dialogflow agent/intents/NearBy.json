@@ -1,0 +1,102 @@
+{
+  "id": "8a6eb727-57d1-42fb-a9f0-33d8b452fbba",
+  "name": "NearBy",
+  "auto": true,
+  "contexts": [
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "nearby",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "72f5f19a-49d5-4fc0-9aea-f9a287ac5985",
+          "required": false,
+          "dataType": "@nearBy",
+          "name": "nearBy",
+          "value": "$nearBy",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you need it close to anything?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "4c0a37e1-dc69-4704-a9ce-90e668323617",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [],
+          "defaultValue": "#location.geo-city",
+          "isList": false
+        },
+        {
+          "id": "83ec61bb-c099-4f04-87ae-c82d6923402b",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "$hotel-amenity",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity",
+          "isList": false
+        },
+        {
+          "id": "9825c4f3-96f1-4653-9af3-962a73d4c0d3",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "$hotel-amenity1",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity1",
+          "isList": false
+        },
+        {
+          "id": "bf9143a5-6d8f-4a41-9dcf-95e5072cdbb5",
+          "required": false,
+          "dataType": "@pricerange",
+          "name": "pricerange",
+          "value": "$pricerange",
+          "prompts": [],
+          "defaultValue": "#location.pricerange",
+          "isList": false
+        },
+        {
+          "id": "5a07488c-2207-460d-ae78-452e4a8b88d5",
+          "required": false,
+          "dataType": "@rating",
+          "name": "rating",
+          "value": "$rating",
+          "prompts": [],
+          "defaultValue": "#location.rating",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541582598,
+  "fallbackIntent": false,
+  "events": []
+}

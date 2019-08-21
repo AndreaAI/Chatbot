@@ -1,0 +1,252 @@
+[
+  {
+    "id": "2ade2b2b-4e14-4535-8cca-bbbc4ad67ba3",
+    "data": [
+      {
+        "text": "better with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and also with ",
+        "userDefined": false
+      },
+      {
+        "text": "pool",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541428575
+  },
+  {
+    "id": "10f7013c-2daf-454f-95d7-c40913d892d7",
+    "data": [
+      {
+        "text": "better with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541069555
+  },
+  {
+    "id": "f5e20db2-3d72-4e08-aaf9-47e8ad69586b",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063040
+  },
+  {
+    "id": "be75033d-d377-479d-9531-ace02c17ec27",
+    "data": [
+      {
+        "text": "with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541428575
+  },
+  {
+    "id": "3c61d961-98e0-4dd9-8e2c-62d5deaa30b1",
+    "data": [
+      {
+        "text": "I want a hotel with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541428575
+  },
+  {
+    "id": "16ec2fa8-b5d7-4e16-8be2-2c250174ceea",
+    "data": [
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541499001
+  },
+  {
+    "id": "f203da64-e57e-46c0-a8c1-dced7dd7c5c5",
+    "data": [
+      {
+        "text": "with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541087871
+  },
+  {
+    "id": "431eb720-5767-4445-bf7c-5252c3ebd87c",
+    "data": [
+      {
+        "text": "book hotel with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541428575
+  },
+  {
+    "id": "07d7d576-3ad2-46b1-8a78-b4e18019b2d1",
+    "data": [
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540991888
+  },
+  {
+    "id": "d68c78d2-5fe6-446a-aafe-144bec6d3814",
+    "data": [
+      {
+        "text": "I want a hotel with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540991475
+  },
+  {
+    "id": "cb564b09-825b-44f0-b7a9-34ab222e2a5b",
+    "data": [
+      {
+        "text": "book hotel with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540991475
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "158f81a3-0619-4c9a-af53-39c71b7508e1",
+    "data": [
+      {
+        "text": "better book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541414936
+  },
+  {
+    "id": "72e819fb-98de-4c79-9369-1f7c8811e86d",
+    "data": [
+      {
+        "text": "better seach hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541414936
+  },
+  {
+    "id": "940c0fbf-b686-41d9-9756-7c2ef3133afc",
+    "data": [
+      {
+        "text": "Change location to ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541413831
+  },
+  {
+    "id": "23419978-da0f-4adc-8888-8bd921dfd01b",
+    "data": [
+      {
+        "text": "Show me better hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541413831
+  },
+  {
+    "id": "2abfaf7b-89d5-46af-97d4-dbe3795cf13e",
+    "data": [
+      {
+        "text": "Show me better some hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541413831
+  },
+  {
+    "id": "9937ecb2-17ee-493c-adc3-dfc8b9fff528",
+    "data": [
+      {
+        "text": "I prefer to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541413831
+  },
+  {
+    "id": "3b523cf1-5fd6-40b6-ba54-aed8214082ca",
+    "data": [
+      {
+        "text": "I want to change my search",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541413831
+  }
+]

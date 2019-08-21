@@ -1,0 +1,102 @@
+[
+  {
+    "id": "10ac5548-e09f-4b55-81b7-2916f2397212",
+    "data": [
+      {
+        "text": "next to Big Ben and Palace",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541436307
+  },
+  {
+    "id": "e4f88d01-9a87-43e6-b5c9-75adecb22bed",
+    "data": [
+      {
+        "text": "Look for it ",
+        "userDefined": false
+      },
+      {
+        "text": "next to Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541435878
+  },
+  {
+    "id": "c3364e63-72a1-4aa9-a15a-3acd39c341f9",
+    "data": [
+      {
+        "text": "I want it ",
+        "userDefined": false
+      },
+      {
+        "text": "near Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541435878
+  },
+  {
+    "id": "571f6073-b333-4da0-a82b-c9e73e4a8a64",
+    "data": [
+      {
+        "text": "near Tour Eiffel",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541435878
+  },
+  {
+    "id": "c67ff72a-2bb4-4a25-8599-e60d89c34602",
+    "data": [
+      {
+        "text": "I want the hotel ",
+        "userDefined": false
+      },
+      {
+        "text": "next to Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541435878
+  },
+  {
+    "id": "12838dde-6c18-4bfb-bb7f-842eabf449bd",
+    "data": [
+      {
+        "text": "I want a hotel ",
+        "userDefined": false
+      },
+      {
+        "text": "near Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541435313
+  }
+]

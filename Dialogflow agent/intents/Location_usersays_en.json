@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "587f0c5d-7621-4b89-8322-279635c271d8",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "more than 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "next to Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541494400
+  },
+  {
+    "id": "4ae0e3d4-016f-4b32-98e7-4ff213f2cbb7",
+    "data": [
+      {
+        "text": "Book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "close to Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541494400
+  },
+  {
+    "id": "99959384-eddd-44e7-ae97-a804664ca196",
+    "data": [
+      {
+        "text": "Book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "close to Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541494400
+  },
+  {
+    "id": "11c81211-3d85-4cf9-8e76-993375901ba3",
+    "data": [
+      {
+        "text": "Book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "close to Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541494400
+  },
+  {
+    "id": "b1936acf-6d6f-4f62-9ac4-73125e823f08",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next to Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "excellent",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": true
+      },
+      {
+        "text": " rated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541494400
+  },
+  {
+    "id": "93e42628-7172-41f3-9212-598e5cd786c3",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "near Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541494400
+  },
+  {
+    "id": "77afab19-3128-4ceb-9f0f-9e496aa034e0",
+    "data": [
+      {
+        "text": "I want to book a hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stockholm",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "pool",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "not more than 350",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541151017
+  },
+  {
+    "id": "cbc1cab5-345f-4abb-974e-ed3bb5450f69",
+    "data": [
+      {
+        "text": "I want to book a hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stockholm",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "pool",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "not more than 350",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " per night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541151017
+  },
+  {
+    "id": "48b837ac-f392-4523-bf9d-09d8a605881a",
+    "data": [
+      {
+        "text": "book a hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarajevo",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "more than 150",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541150629
+  },
+  {
+    "id": "f11e96cd-cade-4565-a38b-4801d5e4dcbe",
+    "data": [
+      {
+        "text": "book a hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarajevo",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "more than 150",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "euros",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      },
+      {
+        "text": " per night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541150825
+  },
+  {
+    "id": "0877f667-d994-4b02-9ec2-927f85e0b969",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "next to Big Ben",
+        "alias": "nearBy",
+        "meta": "@nearBy",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "less than 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541494400
+  },
+  {
+    "id": "4fbd6de5-1f18-42a9-818e-0269366a46bd",
+    "data": [
+      {
+        "text": "I want to book a hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Istanbul",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "excellent",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": true
+      },
+      {
+        "text": " rated with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "below 350",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " per night and with ",
+        "userDefined": false
+      },
+      {
+        "text": "pool",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541149111
+  },
+  {
+    "id": "c03951a5-878e-4613-8019-c0e3ad28b5e7",
+    "data": [
+      {
+        "text": "I would like the ",
+        "userDefined": false
+      },
+      {
+        "text": "best",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": true
+      },
+      {
+        "text": " hotel with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "pool",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Abu Dhabi",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 150",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " per night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541149111
+  },
+  {
+    "id": "587b7d61-606b-4105-ab40-ce480b0a8b7b",
+    "data": [
+      {
+        "text": "hotel ",
+        "userDefined": false
+      },
+      {
+        "text": "very good",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      },
+      {
+        "text": " rated in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541082707
+  },
+  {
+    "id": "15c402d0-9c3c-43a1-a6b3-e98befb47176",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "excellent",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": true
+      },
+      {
+        "text": " rated",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541082707
+  },
+  {
+    "id": "1fce730d-249c-45fd-a882-763882a7f97c",
+    "data": [
+      {
+        "text": "book ",
+        "userDefined": false
+      },
+      {
+        "text": "fantastic",
+        "alias": "rating",
+        "meta": "@rating",
+        "userDefined": false
+      },
+      {
+        "text": " hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "Cairo",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " providing ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541082707
+  },
+  {
+    "id": "01b3445b-7feb-4e2a-b93e-15cdf838c6f3",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "above 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541079969
+  },
+  {
+    "id": "767cd70a-908d-45e1-b4ee-c1158e94f655",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "less than 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541079969
+  },
+  {
+    "id": "afc7344f-51bb-4565-851b-27765589d8c5",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541079969
+  },
+  {
+    "id": "f3a34189-17aa-4768-9f14-73c51121b0fc",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541079969
+  },
+  {
+    "id": "95300fff-2a8b-437d-9941-95d1c711b822",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541079969
+  },
+  {
+    "id": "c92f7c96-43b5-49dc-974d-abc4615e4cb2",
+    "data": [
+      {
+        "text": "book hotel with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "less than 600",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      },
+      {
+        "text": " per night and with ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541076701
+  },
+  {
+    "id": "c650c2cd-c427-41c5-901d-efcd2070abae",
+    "data": [
+      {
+        "text": "better in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541066196
+  },
+  {
+    "id": "f22c15a9-32cc-4ade-8ec0-aa796ef93160",
+    "data": [
+      {
+        "text": "change location to ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541065214
+  },
+  {
+    "id": "047052ea-ce10-4e3c-bbed-27dd9a16d279",
+    "data": [
+      {
+        "text": "change destination to ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541064409
+  },
+  {
+    "id": "c6306400-10fe-43a5-bd48-9c23ab68f416",
+    "data": [
+      {
+        "text": "better in ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541064334
+  },
+  {
+    "id": "748b06af-1448-4c05-b68e-f6eb04bf449e",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063978
+  },
+  {
+    "id": "e1ee3e35-48fc-4084-adce-2b8c235df2cc",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "less than 500",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063978
+  },
+  {
+    "id": "87e5a2cf-8808-431a-9f6b-1e1aa5471bbd",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 400",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063978
+  },
+  {
+    "id": "f4f39f70-7397-4ca9-9d29-1d6e0e5dd0db",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "below 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063807
+  },
+  {
+    "id": "665ee422-2de2-4b33-8bc1-22702a7c3717",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "above 100",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063807
+  },
+  {
+    "id": "ac54631d-af51-40ca-826c-7d98e9e47f91",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "above 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063807
+  },
+  {
+    "id": "3e6dedce-37ed-47c9-8cc1-85264fad1dd7",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "below 100",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063807
+  },
+  {
+    "id": "67677731-8286-498a-b0a4-882492063a08",
+    "data": [
+      {
+        "text": "hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063807
+  },
+  {
+    "id": "1fd313f3-5d72-4ef9-a6dd-9fb0c7e3b1a0",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "more than 100",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063807
+  },
+  {
+    "id": "98f86025-98e3-49da-8bad-e5bc39a919f5",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "less than 400",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063807
+  },
+  {
+    "id": "99478e7d-3cbf-47da-98f5-c0c9264626f9",
+    "data": [
+      {
+        "text": "book hotel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541061411
+  },
+  {
+    "id": "33109d33-64d6-4a31-9acc-691b42c6480d",
+    "data": [
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541061411
+  },
+  {
+    "id": "0ca4e7a9-d218-4942-86fb-adb7f1bc6ebc",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541063807
+  },
+  {
+    "id": "a3fdd4cb-a476-4ce2-b8a4-d2428d78fa16",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541501153
+  },
+  {
+    "id": "4025589d-3732-40fe-920e-da8657b2e466",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540995057
+  },
+  {
+    "id": "81dd24f7-4b4b-498e-93b3-fd23122419be",
+    "data": [
+      {
+        "text": "I want to travel to ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540990967
+  },
+  {
+    "id": "6622aa64-15a3-4116-ad66-c83d60e8721a",
+    "data": [
+      {
+        "text": "book hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540990967
+  }
+]

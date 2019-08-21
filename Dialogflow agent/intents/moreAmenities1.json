@@ -1,0 +1,73 @@
+{
+  "id": "72f2c573-3bb5-427b-9b3c-00f1244f1b95",
+  "parentId": "9358e3a0-7993-4915-84bf-85a9466e17de",
+  "rootParentId": "9358e3a0-7993-4915-84bf-85a9466e17de",
+  "name": "moreAmenities1",
+  "auto": true,
+  "contexts": [
+    "location",
+    "Location-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Location.moreAmenities",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "46c7ca15-b516-474e-8e78-8273df1ed3b8",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "$hotel-amenity1",
+          "isList": false
+        },
+        {
+          "id": "1b2934a2-aefb-476e-8d92-33af58546a3c",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "#location.geo-city",
+          "isList": false
+        },
+        {
+          "id": "b972252d-47dd-43ea-b342-5682903cd0a2",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "#location.hotel-amenity",
+          "isList": false
+        },
+        {
+          "id": "64a513a7-db96-4852-9518-00a93c20af53",
+          "required": false,
+          "dataType": "@pricerange",
+          "name": "pricerange",
+          "value": "#location.pricerange",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Anything else?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541671159,
+  "fallbackIntent": false,
+  "events": []
+}

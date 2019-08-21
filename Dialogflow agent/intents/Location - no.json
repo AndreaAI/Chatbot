@@ -1,0 +1,79 @@
+{
+  "id": "b739b32d-f8b6-4776-b5d2-581e258f3351",
+  "parentId": "9358e3a0-7993-4915-84bf-85a9466e17de",
+  "rootParentId": "9358e3a0-7993-4915-84bf-85a9466e17de",
+  "name": "Location - no",
+  "auto": true,
+  "contexts": [
+    "Location-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Location.Location-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c1079041-2968-47ec-bfd2-4414ea25b3c3",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "#Location-followup.geo-city",
+          "isList": false
+        },
+        {
+          "id": "5247a224-8d80-4b27-873d-a8db1f3cdde6",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "#Location-followup.hotel-amenity",
+          "isList": false
+        },
+        {
+          "id": "d830f220-4915-4244-91d7-115c82ac5c2f",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "#Location-followup.hotel-amenity1",
+          "isList": false
+        },
+        {
+          "id": "abc6d8ca-55df-45af-a6b3-e6693fc65f64",
+          "required": false,
+          "dataType": "@pricerange",
+          "name": "pricerange",
+          "value": "#Location-followup.pricerange",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok! Looking hotel in #Location-followup.geo-city.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city with #Location-followup.hotel-amenity.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city with #Location-followup.hotel-amenity and #Location-followup.hotel-amenity1.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city costing between #Location-followup.pricerange.lower and #Location-followup.pricerange.higher.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city costing less than #Location-followup.pricerange.higher.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city costing more than #Location-followup.pricerange.lower.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city with #Location-followup.hotel-amenity costing between #Location-followup.pricerange.lower and #Location-followup.pricerange.higher.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city with #Location-followup.hotel-amenity and #Location-followup.hotel-amenity1 costing between #Location-followup.pricerange.lower and #Location-followup.pricerange.higher.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city with #Location-followup.hotel-amenity costing less than #Location-followup.pricerange.higher.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city with #Location-followup.hotel-amenity and #Location-followup.hotel-amenity1 costing less than #Location-followup.pricerange.higher.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city with #Location-followup.hotel-amenity costing more than #Location-followup.pricerange.lower.",
+            "Ok! Looking for a hotel in #Location-followup.geo-city with #Location-followup.hotel-amenity and #Location-followup.hotel-amenity1 costing more than #Location-followup.pricerange.lower."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541080219,
+  "fallbackIntent": false,
+  "events": []
+}

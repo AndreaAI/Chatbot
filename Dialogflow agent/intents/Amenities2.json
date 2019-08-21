@@ -1,0 +1,59 @@
+{
+  "id": "2b3d33b6-57d5-4ab0-a81c-ac189fbdf89b",
+  "name": "Amenities2",
+  "auto": true,
+  "contexts": [
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "amenities2",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "Amenities2-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5756e253-4bf5-4dc3-974b-70d85aadb8aa",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "$hotel-amenity",
+          "isList": false
+        },
+        {
+          "id": "a8bc48ce-3b0d-41e9-9b91-601818700b7e",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "$hotel-amenity1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541507510,
+  "fallbackIntent": false,
+  "events": []
+}

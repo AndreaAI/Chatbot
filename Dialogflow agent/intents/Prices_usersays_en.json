@@ -1,0 +1,286 @@
+[
+  {
+    "id": "83041255-8380-467f-afac-81f3c0e2bcc9",
+    "data": [
+      {
+        "text": "costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 500",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CHF",
+        "alias": "currency-name",
+        "meta": "@sys.currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541150736
+  },
+  {
+    "id": "18432dca-23dc-4d73-b771-920384837f7c",
+    "data": [
+      {
+        "text": "costing ",
+        "userDefined": false
+      },
+      {
+        "text": "not less than 50",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541147287
+  },
+  {
+    "id": "f1fa9c02-1920-4832-8372-f5ecbe1076de",
+    "data": [
+      {
+        "text": "costing ",
+        "userDefined": false
+      },
+      {
+        "text": "not more than 500",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      },
+      {
+        "text": " per night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541147287
+  },
+  {
+    "id": "deafd71c-0a1e-4ffd-a551-842aeca54b6c",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "more than 100",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      },
+      {
+        "text": " per night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541086381
+  },
+  {
+    "id": "558f5882-f3f5-4637-bdd1-5216e4fa71f0",
+    "data": [
+      {
+        "text": "costing ",
+        "userDefined": false
+      },
+      {
+        "text": "less than 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      },
+      {
+        "text": " per night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541086381
+  },
+  {
+    "id": "c5336dbb-a16b-469b-a48a-d8d1b8529b72",
+    "data": [
+      {
+        "text": "better in ",
+        "userDefined": false
+      },
+      {
+        "text": "London",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 300",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541067076
+  },
+  {
+    "id": "af0965ea-716f-4130-a214-a40504cc7e2a",
+    "data": [
+      {
+        "text": "costing ",
+        "userDefined": false
+      },
+      {
+        "text": "more than 100",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1541059106
+  },
+  {
+    "id": "9649db11-bf8b-45b8-bba0-6b3a10fc4a4c",
+    "data": [
+      {
+        "text": "above 100",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " per night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541086381
+  },
+  {
+    "id": "4c16281c-a11d-4fe0-89b6-4cf179d76f9d",
+    "data": [
+      {
+        "text": "less than 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541058825
+  },
+  {
+    "id": "71b270f8-83f3-457d-b51d-340b4fce25cf",
+    "data": [
+      {
+        "text": "price ",
+        "userDefined": false
+      },
+      {
+        "text": "above 100",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541058825
+  },
+  {
+    "id": "37e0321f-235f-4b08-b4ac-963732ec1b47",
+    "data": [
+      {
+        "text": "price ",
+        "userDefined": false
+      },
+      {
+        "text": "below 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      },
+      {
+        "text": " per night",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541086381
+  },
+  {
+    "id": "1e3f824d-20ac-4ed1-951c-322a1d1be8d2",
+    "data": [
+      {
+        "text": "costing ",
+        "userDefined": false
+      },
+      {
+        "text": "100 - 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541058825
+  },
+  {
+    "id": "ab3ce3ad-18bf-4eab-b4f5-9b96d5b9520b",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "less than 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541058825
+  },
+  {
+    "id": "bab2cced-2246-4b69-8db8-6177afbbc6f8",
+    "data": [
+      {
+        "text": "costing ",
+        "userDefined": false
+      },
+      {
+        "text": "between 100 and 200",
+        "alias": "pricerange",
+        "meta": "@pricerange",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541059106
+  }
+]

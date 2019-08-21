@@ -1,0 +1,52 @@
+[
+  {
+    "id": "43371f47-1f51-45b7-b04d-246d90344905",
+    "data": [
+      {
+        "text": "also with ",
+        "userDefined": false
+      },
+      {
+        "text": "pool",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541498851
+  },
+  {
+    "id": "a8ec3a2e-539c-46f0-8241-557a5541b681",
+    "data": [
+      {
+        "text": "with ",
+        "userDefined": false
+      },
+      {
+        "text": "WiFi",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541498851
+  },
+  {
+    "id": "4d1fb4f5-5241-4f02-8a57-3c7f2c05a9e8",
+    "data": [
+      {
+        "text": "restaurant",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541498851
+  }
+]

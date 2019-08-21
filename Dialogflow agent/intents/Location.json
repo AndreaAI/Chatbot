@@ -1,0 +1,137 @@
+{
+  "id": "9358e3a0-7993-4915-84bf-85a9466e17de",
+  "name": "Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "location",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "Location-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d4172bcc-ecdc-417f-b1fe-55946c3e40ed",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Where do you want to travel?"
+            },
+            {
+              "lang": "en",
+              "value": "Where do you want to go?"
+            },
+            {
+              "lang": "en",
+              "value": "Where do you want to book a hotel?"
+            }
+          ],
+          "defaultValue": "#location.geo-city",
+          "isList": false
+        },
+        {
+          "id": "80011ff6-d5f1-4e2a-9fa5-97382fde2054",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "$hotel-amenity",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity",
+          "isList": false
+        },
+        {
+          "id": "4cdbe0b6-8eed-45cd-8f86-e8e10aee88d9",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "$hotel-amenity1",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity1",
+          "isList": false
+        },
+        {
+          "id": "c1b1c890-e038-4f26-a788-491a10dfb097",
+          "required": false,
+          "dataType": "@pricerange",
+          "name": "pricerange",
+          "value": "$pricerange",
+          "prompts": [],
+          "defaultValue": "#location.pricerange",
+          "isList": false
+        },
+        {
+          "id": "1ac0c864-7e2a-4119-9017-8cebf0744250",
+          "required": false,
+          "dataType": "@rating",
+          "name": "rating",
+          "value": "$rating",
+          "prompts": [],
+          "defaultValue": "#location.rating",
+          "isList": false
+        },
+        {
+          "id": "c643648b-1e35-4eae-9d4f-9b42c9189f7c",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "name": "currency-name",
+          "value": "$currency-name",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "570bf005-3f65-4f9b-9a25-848276343252",
+          "required": false,
+          "dataType": "@nearBy",
+          "name": "nearBy",
+          "value": "$nearBy",
+          "prompts": [],
+          "defaultValue": "#location.nearBy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Looking for a hotel in $geo-city.",
+            "Looking for a hotel in $geo-citywith $hotel-amenity.",
+            "Looking for a hotel in $geo-city with $hotel-amenity and $hotel-amenity1.",
+            "Looking for a hotel in $geo-city costing between $pricerange.lower and $pricerange.higher.",
+            "Looking for a hotel in $geo-city costing less than $pricerange.higher.",
+            "Looking for a hotel in $geo-city costing more than $pricerange.lower.",
+            "Looking for a hotel in $geo-city with $hotel-amenity costing between $pricerange.lower and $pricerange.higher.",
+            "Looking for a hotel in $geo-city with $hotel-amenity costing more than $pricerange.lower.",
+            "Looking for a hotel in $geo-city with $hotel-amenity costing less than $pricerange.higher.",
+            "Looking for a hotel in $geo-city with $hotel-amenity and $hotel-amenity1 costing between $pricerange.lower and $pricerange.higher.",
+            "Looking for a hotel in $geo-city with $hotel-amenity and $hotel-amenity1 costing less than $pricerange.higher.",
+            "Looking for a hotel in $geo-city with $hotel-amenity and $hotel-amenity1 costing more than $pricerange.lower.",
+            "Looking for a hotel $rating rated in $geo-city."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541673887,
+  "fallbackIntent": false,
+  "events": []
+}

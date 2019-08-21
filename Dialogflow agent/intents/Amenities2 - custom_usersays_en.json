@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2b7fdf8a-7b89-4f32-8bb1-3cea5e0488c0",
+    "data": [
+      {
+        "text": "with ",
+        "userDefined": false
+      },
+      {
+        "text": "pool",
+        "alias": "hotel-amenity1",
+        "meta": "@hotel-amenity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1541500422
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "id": "5f767af1-3254-4150-94c9-4b3c28a57c4d",
+  "parentId": "b3e233ab-92cc-4ab5-b800-1c86848ec5f3",
+  "rootParentId": "b3e233ab-92cc-4ab5-b800-1c86848ec5f3",
+  "name": "finalEnd",
+  "auto": true,
+  "contexts": [
+    "End-followup",
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "end.finalend",
+      "affectedContexts": [
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "16d7fc49-d351-4549-9fee-7cb1e25f916c",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo.city",
+          "prompts": [],
+          "defaultValue": "#location.geo-city",
+          "isList": false
+        },
+        {
+          "id": "1f8208ca-2cbb-4e11-9d12-35ac0cf1ee40",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "$hotel-amenity",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity",
+          "isList": false
+        },
+        {
+          "id": "65c17d7c-b228-45fc-ba6a-e18a0ae97c3a",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "$hotel-amenity1",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity1",
+          "isList": false
+        },
+        {
+          "id": "de4a87a0-c072-484e-82c8-44422cf09b0d",
+          "required": false,
+          "dataType": "@rating",
+          "name": "rating",
+          "value": "$rating",
+          "prompts": [],
+          "defaultValue": "#location.rating",
+          "isList": false
+        },
+        {
+          "id": "c8aeed74-7217-484a-a403-de8acc1e1e49",
+          "required": false,
+          "dataType": "@pricerange",
+          "name": "pricerange",
+          "value": "$pricerange",
+          "prompts": [],
+          "defaultValue": "#location.pricerange",
+          "isList": false
+        },
+        {
+          "id": "a56f6a7f-b52c-46cf-a1c8-8ded21d3e177",
+          "required": false,
+          "dataType": "@nearBy",
+          "name": "nearBy",
+          "value": "$nearBy",
+          "prompts": [],
+          "defaultValue": "#location.nearBy",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Ok! Looking for your hotel.",
+            "Perfect, give me one moment.",
+            "Well, I will look for that."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541673502,
+  "fallbackIntent": false,
+  "events": []
+}

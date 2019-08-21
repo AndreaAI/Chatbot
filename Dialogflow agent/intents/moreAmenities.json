@@ -1,0 +1,112 @@
+{
+  "id": "a1358499-8939-49ad-844f-66120102f98c",
+  "parentId": "8044ae35-bde1-4333-bf53-1da075080216",
+  "rootParentId": "8044ae35-bde1-4333-bf53-1da075080216",
+  "name": "moreAmenities",
+  "auto": true,
+  "contexts": [
+    "Amenities-followup",
+    "amenities",
+    "location"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "moreAmenities",
+      "affectedContexts": [
+        {
+          "name": "moreamenities",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "location",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "amenities",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6d51abd9-0d2b-4713-82d6-e65bc61f25c8",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [],
+          "defaultValue": "#location.geo-city",
+          "isList": false
+        },
+        {
+          "id": "55f7a6e8-d480-4f23-a493-cc409420e32b",
+          "required": false,
+          "dataType": "@pricerange",
+          "name": "pricerange",
+          "value": "$pricerange",
+          "prompts": [],
+          "defaultValue": "#location.pricerange",
+          "isList": false
+        },
+        {
+          "id": "0f12e69f-1b40-4678-b9a6-c27351ecd228",
+          "required": false,
+          "dataType": "@rating",
+          "name": "rating",
+          "value": "$rating",
+          "prompts": [],
+          "defaultValue": "#location.rating",
+          "isList": false
+        },
+        {
+          "id": "31408526-3917-46f5-9302-da6adfb94b25",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity1",
+          "value": "$hotel-amenity1",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity1",
+          "isList": false
+        },
+        {
+          "id": "9acf7026-febd-4df7-a51a-226e723e02a7",
+          "required": false,
+          "dataType": "@nearBy",
+          "name": "nearBy",
+          "value": "$nearBy",
+          "prompts": [],
+          "defaultValue": "#location.nearBy",
+          "isList": false
+        },
+        {
+          "id": "724c9d13-c1d1-4a72-880a-5bb6968d2bc9",
+          "required": false,
+          "dataType": "@hotel-amenity",
+          "name": "hotel-amenity",
+          "value": "$hotel-amenity",
+          "prompts": [],
+          "defaultValue": "#location.hotel-amenity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok! Looking for a hotel in #Amenities-followup.geo-city with $hotel-amenity and $hotel-amenity1."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541673328,
+  "fallbackIntent": false,
+  "events": []
+}
