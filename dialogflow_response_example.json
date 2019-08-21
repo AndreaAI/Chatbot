@@ -1,0 +1,42 @@
+    
+{
+  "responseId": "29317dd7-664e-4c79-ae28-5ff9faf1d75b",
+  "queryResult": {
+    "queryText": "book hotel in London with WiFi and pool",
+    "action": "book.hotel",
+    "parameters": {
+      "hotel-amenity2": "",
+      "hotel-amenity": "",
+      "rating":"",
+      "lower-price":,
+      "upper-price":,
+      "date": "",
+      "geo-city": "London"
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "Great! Searching a hotel in London with wifi and pool.",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "Great! Searching a hotel in London with wifi and pool."
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/hotelbookingbot-3e5d4/agent/intents/3c1c8c65-eb09-47f5-876d-11c47eef5d02",
+      "displayName": "Book Hotel"
+    },
+    "intentDetectionConfidence": 0.99,
+    "diagnosticInfo": {
+      "webhook_latency_ms": 609,
+      "end_conversation": true
+    },
+    "languageCode": "en"
+  },
+  "webhookStatus": {
+    "code": 13,
+    "message": "Webhook call failed. Error: 500 INTERNAL SERVER ERROR"
+  }
+}
