@@ -1,0 +1,90 @@
+# order of submission: price+locality+amenity+amenity1
+hello
+book a hotel in Jerusalem costing between 50 and 250 with restaurant and WiFi
+
+# order of submission: locality+amenity+amenity1+price
+book a hotel in Sarajevo with WiFi and restaurant costing more than 150 euros per night
+
+# order of submission: locality+price+amenity+amenity1
+hi
+book hotel in Paris costing below 400 with restaurant and WiFi
+
+# order of submission: rating+locality+price+amenity+amenity1
+I would like the best hotel with WiFi and pool in Abu Dhabi costing between 100 and 150 per night
+
+# order of submission: locality+rating+amenity+price+amenity1
+I want to book a hotel in Istanbul excellent rated with WiFi costing below 350 per night and with pool
+
+# order of submission: locality
+hello
+book hotel
+to London
+
+# order of submission: rating+locality
+I'm looking for an excellent rated hotel in New York
+
+# order of submission: locality, amenity
+hi
+I want to book a hotel in Washington DC
+with WiFi
+
+# order of submission: locality+amenity, amenity1
+book fantastic hotel in Cairo providing WiFi
+also with restaurant
+
+# order of submission: locality+rating, amenity+amenity1
+I would like to book a hotel in Amsterdam with very good rating
+with WiFi and pool
+
+# order of submission: locality, amenity, amenity1, price, rating
+book hotel in Seoul
+with restaurant
+with pool
+costing between 100 and 300
+excellent rated
+
+# order of submission: locality, amenity+amenity1, price
+hello
+I want to travel to Madrid
+need it with WiFi and restaurant
+costing less than 200
+
+# order of submission: locality+amenity, amenity1, price
+hotel with pool in Kyoto
+also with restaurant
+costing above 20 per night
+
+# order of submission: locality+amenity+amenity1, price
+I want to travel to Havana and have pool and restaurant
+costing more than 150
+
+# order of submission: locality, price, amenity, amenity1
+I want to book hotel in Zurich
+costing between 100 and 500 CHF
+WiFi
+restaurant
+
+# order of submission: locality, price, amenity+amenity1
+book hotel in Monaco
+costing not less than 100 per night
+with pool and WiFi
+
+# order of submission: locality+range, price, amenity+amenity1
+book wonderful hotel in Rome
+costing below 500 per night
+with pool and restaurant
+
+# order of submission: locality+price, amenity, amenity1
+book hotel in Tripoli costing not more than 300
+with pool
+with WiFi
+
+# order of submission: locality+price, amenity+amenity1
+looking for a hotel costing 200 - 300 per night in Beijing
+with restaurant and WiFi
+
+# order of submission: locality+amenity+price, amenity1
+I want to book a hotel in Stockholm with pool costing not more than 350 per night
+also with restaurant
+
+# end
