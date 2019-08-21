@@ -1,0 +1,50 @@
+[
+  {
+    "value": "excellent",
+    "synonyms": [
+      "excellent",
+      "marvelous",
+      "wonderful",
+      "amazing",
+      "great",
+      "fantastic",
+      "great",
+      "best"
+    ]
+  },
+  {
+    "value": "very good",
+    "synonyms": [
+      "very good",
+      "so good",
+      "really good",
+      "quite good",
+      "nice",
+      "cool"
+    ]
+  },
+  {
+    "value": "average",
+    "synonyms": [
+      "good",
+      "normal",
+      "average"
+    ]
+  },
+  {
+    "value": "poor",
+    "synonyms": [
+      "poor",
+      "bad"
+    ]
+  },
+  {
+    "value": "terrible",
+    "synonyms": [
+      "terrible",
+      "disgusting",
+      "really bad",
+      "shitty"
+    ]
+  }
+]
