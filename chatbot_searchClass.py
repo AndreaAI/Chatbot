@@ -7,7 +7,7 @@ Author:         Andrea Aguilar Ibáñez
 import os
 from unidecode import unidecode
 import dialogflow
-from Elasticsearch import hubapi
+from backend import hubapi
 import wordcloudmaker
 import random
 import logging
