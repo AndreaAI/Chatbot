@@ -1,0 +1,26 @@
+[
+  {
+    "value": "single",
+    "synonyms": [
+      "single"
+    ]
+  },
+  {
+    "value": "double",
+    "synonyms": [
+      "double"
+    ]
+  },
+  {
+    "value": "triple",
+    "synonyms": [
+      "triple"
+    ]
+  },
+  {
+    "value": "twin",
+    "synonyms": [
+      "twin"
+    ]
+  }
+]
