@@ -1,0 +1,50 @@
+[
+  {
+    "value": "between @sys.number:lower and @sys.number:higher",
+    "synonyms": [
+      "between @sys.number:lower and @sys.number:higher"
+    ]
+  },
+  {
+    "value": "more than @sys.number:lower",
+    "synonyms": [
+      "more than @sys.number:lower"
+    ]
+  },
+  {
+    "value": "above @sys.number:lower",
+    "synonyms": [
+      "above @sys.number:lower"
+    ]
+  },
+  {
+    "value": "less than @sys.number:higher",
+    "synonyms": [
+      "less than @sys.number:higher"
+    ]
+  },
+  {
+    "value": "below @sys.number:higher ",
+    "synonyms": [
+      "below @sys.number:higher "
+    ]
+  },
+  {
+    "value": "@sys.number:lower - @sys.number:higher",
+    "synonyms": [
+      "@sys.number:lower - @sys.number:higher"
+    ]
+  },
+  {
+    "value": "not more than @sys.number:higher",
+    "synonyms": [
+      "not more than @sys.number:higher"
+    ]
+  },
+  {
+    "value": "not less than @sys.number:lower",
+    "synonyms": [
+      "not less than @sys.number:lower"
+    ]
+  }
+]
