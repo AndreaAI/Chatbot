@@ -1,0 +1,14 @@
+[
+  {
+    "value": "@hotel-amenity:hotel-amenity",
+    "synonyms": [
+      "@hotel-amenity:hotel-amenity"
+    ]
+  },
+  {
+    "value": "@hotel-amenity:hotel-amenity, @hotel-amenity:hotel-amenity1",
+    "synonyms": [
+      "@hotel-amenity:hotel-amenity, @hotel-amenity:hotel-amenity1"
+    ]
+  }
+]
